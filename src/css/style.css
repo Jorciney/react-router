@@ -1,0 +1,8 @@
+.card{
+    margin:0;
+    box-sizing: border-box;
+    background: #ff9c1a;
+    color: #ffffff;
+    font-size: 25px;
+    width: 100%;
+}
